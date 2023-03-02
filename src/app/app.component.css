@@ -1,0 +1,5 @@
+main {
+    background: url(/assets/images/back-portfolio.png);
+    background-size: cover;
+    min-height: 80vh;
+}
